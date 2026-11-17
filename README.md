@@ -12,11 +12,10 @@ Please cite my dataset if you have used it in your work.
 
 
 ```
-@phdthesis{wreo37334,
+@phdthesis{quranrel_alsaleh,
            month = {March},
            title = {Transformer-based Semantic Similarity Exploration on the Holy Quran},
           school = {University of Leeds},
-            note = {Unpublished},
             year = {2025},
              url = {https://etheses.whiterose.ac.uk/id/eprint/37334/},
         keywords = {Quran; Semantic Similarity; BERT; Transformer; Question Answering; Passage Retrieval; Classical Arabic; Quranic Corpus},
